@@ -5,4 +5,4 @@ git commit -m "..."
 git config --global user.name "Alan Chen"
 git config --global user.email cchen21@email.com
 git commit --amend --reset-author
-git push <remote> <branch>
+git push origin <branch>
